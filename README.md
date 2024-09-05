@@ -23,9 +23,11 @@ I'm a passionate data enthusiast with a **BSc in Physical Sciences**, where I ma
 ### 🌐 Let’s Connect!
 Feel free to check out my work, leave feedback, or collaborate on exciting data science projects! I'm always up for a challenge and eager to learn something new.
 
+
 🚀 **Let’s turn data into insights!**
 
 [LinkedIn](www.linkedin.com/in/
 veronicah-sihlangu-a465b8260
 ) 
 
+ 🤖 ![sihlangu01 GitHub stats](https://github-readme-stats.vercel.app/api?username=sihlangu01&show_icons=true&theme=radical)
