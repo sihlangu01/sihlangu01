@@ -4,21 +4,66 @@ Welcome to my GitHub, where code meets creativity! 🚀
 
 ## 🌟 About Me
 
-I'm a passionate data enthusiast with a **BSc in Physical Sciences**, where I majored in **Physics** and **Mathematics**. 🔭🧠 My journey took a thrilling turn into the world of data science, and I never looked back!
+I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived deep into Physics and Mathematics. 🔭🧠 What started as a curiosity turned into an exciting journey into the world of data science and analysis, and there’s been no turning back! 🚀 From unraveling complex data puzzles to building predictive models, I’m all about transforming raw data into impactful insights. 🔍📊
 
-
-### 🧠 My Learning Journey
-- Studied **Data Science** with **Explore AI Academy**, gaining hands-on experience in machine learning, data analysis, and visualization.
-- Tackled complex challenges in **Physics** and **Mathematics**, which sharpened my problem-solving skills. 🧮🔬
-
-### 🚀 What I’m Up To
-- As a Data Science Intern, I’m diving into real-world data problems, working with cutting-edge tools, and learning from some amazing mentors! 🤖📊
-- Experimenting with **Python**, **Machine Learning**, and **AI** to uncover hidden insights in data!
 
 ### 🎯 Fun Facts About Me
 - 🧲 I love solving challenging mathematical problems just as much as cracking a complex dataset!
 - 🌍 When I’m not coding, you can find me exploring the mysteries of the universe (literally and figuratively)! 🪐
 - ☕ Coffee fuels my code and creativity – always!
+
+## 💼 Experience
+
+**Data Science Intern**
+
+ **Sand Technologies | September 2024 – November 2024**
+ 
+ ● Contributed to the EV Charging Station Placement Project, focusing on data analysis and optimal
+ location selection using tools such as GIS, AWS, and Jupyter Notebook.
+ ● Performedwebscraping to gather essential data for project insights, ensuring comprehensive
+ and up-to-date information.
+ ● Applieddata storytelling techniques to present findings effectively, creating compelling
+ visualizations and narratives for stakeholders.
+ ● Gainedhands-onexperience with cutting-edge technologies, developing solutions that balance
+ sustainability, economics, and innovation.
+
+**Data Science Job Simulation Program**
+
+**Intern Career – Online**
+
+**december 2023 – february 2024**
+
+- Used Excel for extensive data cleaning tasks, including handling missing values, removing duplicates, and preparing datasets for analysis.
+  
+- Utilized Power BI to create interactive dashboards and visually communicate key insights and trends from complex datasets.
+  
+- Collaborated with a team to analyze large datasets and provide actionable insights to guide business decisions.
+  
+- Conducted data analysis and exploratory data analysis (EDA) to uncover patterns and trends in the data, using Excel’s advanced functions and Power BI’s visualization tools.
+  
+- Ensured high-quality data for analysis through careful data preprocessing and validation.
+  
+- Worked in cross-functional teams to integrate findings into business processes, supporting strategic decision-making with clear and effective visual reports.
+
+**Data Analytics Job Simulation Program**
+
+**KPMG – Online**
+
+**Jul 2023 – Nov 2023**
+
+- Gained hands-on experience with data analytics tools and methodologies.
+  
+- Conducted data analysis and prepared reports to support business decisions.
+
+- Worked on projects involving data cleaning, statistical analysis, and predictive modeling.
+
+- Applied data visualization techniques to present complex data in an understandable manner.
+
+- Utilized SQL for querying databases and extracting relevant data.
+  
+- Implemented predictive models to forecast trends and business outcomes.
+
+- Presented findings contributing to strategic decision-making.
 
 ### 🌐 Let’s Connect!
 Feel free to check out my work, leave feedback, or collaborate on exciting data science projects! I'm always up for a challenge and eager to learn something new.
