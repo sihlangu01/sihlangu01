@@ -16,37 +16,22 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
 **Data Science Intern**
  **Sand Technologies | September 2024 – November 2024**
  
- - Contributed to the EV Charging Station Placement Project, focusing on data analysis and optimal
- location selection using tools such as GIS, AWS, and Jupyter Notebook.
-- Performedwebscraping to gather essential data for project insights, ensuring comprehensive
- and up-to-date information.
--  Applieddata storytelling techniques to present findings effectively, creating compelling
- visualizations and narratives for stakeholders.
-- Gainedhands-onexperience with cutting-edge technologies, developing solutions that balance
- sustainability, economics, and innovation.
+- Contributed to identifying EV charging station locations using GIS, AWS, and Jupyter Notebook.
+- Conducted web scraping and created visualizations to present insights to stakeholders.
 
 **Data Science Job Simulation Program**
 **|Intern Career – Online**
 **|december 2023 – february 2024**
 
-- Used Excel for extensive data cleaning tasks, including handling missing values, removing duplicates, and preparing datasets for analysis.
-- Utilized Power BI to create interactive dashboards and visually communicate key insights and trends from complex datasets.
-- Collaborated with a team to analyze large datasets and provide actionable insights to guide business decisions.
-- Conducted data analysis and exploratory data analysis (EDA) to uncover patterns and trends in the data, using Excel’s advanced functions and Power BI’s visualization tools.
-- Ensured high-quality data for analysis through careful data preprocessing and validation.
-- Worked in cross-functional teams to integrate findings into business processes, supporting strategic decision-making with clear and effective visual reports.
+- Cleaned and prepared datasets in Excel, ensuring data quality for analysis.
+- Created interactive Power BI dashboards to uncover trends and support strategic decisions..
 
 **Data Analytics Job Simulation Program**
 **|KPMG – Online**
 **|July 2023 – November 2023**
 
-- Gained hands-on experience with data analytics tools and methodologies.
-- Conducted data analysis and prepared reports to support business decisions.
-- Worked on projects involving data cleaning, statistical analysis, and predictive modeling.
-- Applied data visualization techniques to present complex data in an understandable manner.
-- Utilized SQL for querying databases and extracting relevant data.
-- Implemented predictive models to forecast trends and business outcomes.
-- Presented findings contributing to strategic decision-making.
+- Conducted data analysis, cleaning, and visualization to support business decisions.
+- Utilized SQL and predictive modeling to uncover trends and forecast outcomes.
 
 ### 🎓 Education
 **|Explore-AI– Online**
