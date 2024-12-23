@@ -121,8 +121,8 @@ Feel free to check out my work, leave feedback, or collaborate on exciting data 
 
 🚀 **Let’s turn data into insights!**
 
-[LinkedIn](www.linkedin.com/in/
-veronicah-sihlangu-a465b8260
+[LinkedIn]([www.linkedin.com/in/
+veronicah-sihlangu-a465b8260](https://www.linkedin.com/in/veronicah-sihlangu-a465b8260/)
 ) 
 
 
