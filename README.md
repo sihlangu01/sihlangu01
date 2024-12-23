@@ -82,6 +82,7 @@ Developed a Streamlit app to predict the number of likes a TikTok video would re
 **Anime Recommender System for Fusion-X Network**
 
 **Project Overview:**
+https://camo.githubusercontent.com/6ddf8c9d775a147c7e4efb07f93d2b471a058d15b2c35ecb9daf394de2ad11d2/68747470733a2f2f756368692e696d6769782e6e65742f67656e6572616c2f616e696d65322e706e673f63726f703d666f63616c706f696e7426646f6d61696e3d756368692e696d6769782e6e6574266669743d63726f7026666d3d706a70672666702d783d302e352666702d793d302e3526683d3535382669786c69623d7068702d332e332e3126713d38322675736d3d323026773d393932
 
 Developed a collaborative and content-based recommender system designed to predict user ratings for anime titles they have not yet viewed, leveraging their historical preferences.
 Developed a robust anime recommender system capable of accurately predicting user preferences based on viewing history, ratings, and preferences, with performance validated using RMSE. Designed the Fusion-X Network app using Streamlit, featuring an engaging and user-friendly interface for seamless exploration of recommendations. Engineered the system for scalability, ensuring efficient handling of large data volumes and optimal performance during peak usage. Carefully selected and optimized the best-fit model from multiple algorithms to meet project requirements, showcasing expertise in machine learning, user experience design, and system scalability.
