@@ -65,6 +65,29 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
 
 - Presented findings contributing to strategic decision-making.
 
+## 🎓 Education
+
+**Explore-AI– Online**
+
+ **Data Science**
+ 
+ **2024**
+ 
+ ● Developed proficiency in data science concepts and methodologies, including data preprocessing,
+ feature engineering, and model evaluation.
+ ● Gainhands-onexperience with various machine learning algorithms and tools, enhancing
+ practical skills through project-based learning.
+
+ **Sefako Makgatho Health Sciences University- Pretoria South Africa**
+ 
+ **Bachelor of Science (B.S.C)– Physical Sciences**
+ 
+ **2018- 2024**
+ 
+ ● Achievedastrong academic record with a focus on analytical and problem-solving skills.
+ ● Developedadeepunderstanding of mathematical models and physical theories
+
+
 ### 🌐 Let’s Connect!
 Feel free to check out my work, leave feedback, or collaborate on exciting data science projects! I'm always up for a challenge and eager to learn something new.
 
