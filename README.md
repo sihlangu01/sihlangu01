@@ -2,12 +2,12 @@
 
 Welcome to my GitHub, where code meets creativity! 🚀
 
-### 🌟 About Me
+## 🌟 About Me
 
 I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived deep into Physics and Mathematics. 🔭🧠 What started as a curiosity turned into an exciting journey into the world of data science and analysis, and there’s been no turning back! 🚀 From unraveling complex data puzzles to building predictive models, I’m all about transforming raw data into impactful insights. 🔍📊
 
 
-### 🎯 Fun Facts About Me
+## 🎯 Fun Facts About Me
 - 🧲 I love solving challenging mathematical problems just as much as cracking a complex dataset!
 - 🌍 When I’m not coding, you can find me exploring the mysteries of the universe (literally and figuratively)! 🪐
 - ☕ Coffee fuels my code and creativity – always!
@@ -40,7 +40,7 @@ Developed a robust anime recommender system capable of accurately predicting use
 **📂 View Repository :** https://github.com/LMbewe/Unsupervised-Learning-Team-OA-1.git
 
 
-# 💼 Skills
+## 💼 Skills
 
 **Data Science & Analytics**
 
@@ -58,25 +58,25 @@ Developed a robust anime recommender system capable of accurately predicting use
 
 - Communication Skills, Project Management, Team Collaboration, Critical Thinking, Attention to Detail
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
-## Programming Languages
+### Programming Languages
 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
-## Cloud Platforms and Development Tools
+### Cloud Platforms and Development Tools
 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
-## Databases
+### Databases
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 
-## Data Science Tools and Libraries
+### Data Science Tools and Libraries
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 💼 Experience
+## 💼 Experience
 **Data Science Intern**
  **Sand Technologies | September 2024 – November 2024**
  
@@ -97,7 +97,7 @@ Developed a robust anime recommender system capable of accurately predicting use
 - Conducted data analysis, cleaning, and visualization to support business decisions.
 - Utilized SQL and predictive modeling to uncover trends and forecast outcomes.
 
-### 🎓 Education
+## 🎓 Education
 **|Explore-AI– Online**
 **|Data Science**
 **|2024**
