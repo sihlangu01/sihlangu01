@@ -26,10 +26,8 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
  sustainability, economics, and innovation.
 
 **Data Science Job Simulation Program**
-
-**Intern Career – Online**
-
-**december 2023 – february 2024**
+**|Intern Career – Online**
+**|december 2023 – february 2024**
 
 - Used Excel for extensive data cleaning tasks, including handling missing values, removing duplicates, and preparing datasets for analysis.
   
@@ -44,10 +42,8 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
 - Worked in cross-functional teams to integrate findings into business processes, supporting strategic decision-making with clear and effective visual reports.
 
 **Data Analytics Job Simulation Program**
-
-**KPMG – Online**
-
-**Jul 2023 – Nov 2023**
+**|KPMG – Online**
+**|July 2023 – November 2023**
 
 - Gained hands-on experience with data analytics tools and methodologies.
   
@@ -64,12 +60,9 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
 - Presented findings contributing to strategic decision-making.
 
 ## 🎓 Education
-
-**Explore-AI– Online**
-
- **Data Science**
- 
- **2024**
+**|Explore-AI– Online**
+**|Data Science**
+**|2024**
  
  - Developed proficiency in data science concepts and methodologies, including data preprocessing,
  feature engineering, and model evaluation.
@@ -77,10 +70,8 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
  practical skills through project-based learning.
 
  **Sefako Makgatho Health Sciences University- Pretoria South Africa**
- 
- **Bachelor of Science (B.S.C)– Physical Sciences**
- 
- **2018- 2024**
+ **|Bachelor of Science (B.S.C)– Physical Sciences**
+ **|2018- 2024**
  
 - Achievedastrong academic record with a focus on analytical and problem-solving skills.
 - Developedadeepunderstanding of mathematical models and physical theories
