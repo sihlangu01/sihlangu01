@@ -13,18 +13,16 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
 - ☕ Coffee fuels my code and creativity – always!
 
 ## 💼 Experience
-
 **Data Science Intern**
-
  **Sand Technologies | September 2024 – November 2024**
  
- ● Contributed to the EV Charging Station Placement Project, focusing on data analysis and optimal
+ - Contributed to the EV Charging Station Placement Project, focusing on data analysis and optimal
  location selection using tools such as GIS, AWS, and Jupyter Notebook.
- ● Performedwebscraping to gather essential data for project insights, ensuring comprehensive
+- Performedwebscraping to gather essential data for project insights, ensuring comprehensive
  and up-to-date information.
- ● Applieddata storytelling techniques to present findings effectively, creating compelling
+-  Applieddata storytelling techniques to present findings effectively, creating compelling
  visualizations and narratives for stakeholders.
- ● Gainedhands-onexperience with cutting-edge technologies, developing solutions that balance
+- Gainedhands-onexperience with cutting-edge technologies, developing solutions that balance
  sustainability, economics, and innovation.
 
 **Data Science Job Simulation Program**
