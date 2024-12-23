@@ -1,8 +1,8 @@
-# Hey there! 👋 I'm [Veronicah Sihlangu]!
+## Hey there! 👋 I'm [Veronicah Sihlangu]!
 
 Welcome to my GitHub, where code meets creativity! 🚀
 
-## 🌟 About Me
+### 🌟 About Me
 
 I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived deep into Physics and Mathematics. 🔭🧠 What started as a curiosity turned into an exciting journey into the world of data science and analysis, and there’s been no turning back! 🚀 From unraveling complex data puzzles to building predictive models, I’m all about transforming raw data into impactful insights. 🔍📊
 
@@ -12,7 +12,7 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
 - 🌍 When I’m not coding, you can find me exploring the mysteries of the universe (literally and figuratively)! 🪐
 - ☕ Coffee fuels my code and creativity – always!
 
-## 💼 Experience
+### 💼 Experience
 **Data Science Intern**
  **Sand Technologies | September 2024 – November 2024**
  
@@ -59,7 +59,7 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
 
 - Presented findings contributing to strategic decision-making.
 
-## 🎓 Education
+### 🎓 Education
 **|Explore-AI– Online**
 **|Data Science**
 **|2024**
@@ -75,6 +75,8 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
  
 - Achievedastrong academic record with a focus on analytical and problem-solving skills.
 - Developedadeepunderstanding of mathematical models and physical theories
+
+### 🚀 Key Projects
 
 
 ### 🌐 Let’s Connect!
