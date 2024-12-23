@@ -51,19 +51,19 @@ veronicah-sihlangu-a465b8260
 
 # 💼 Skills
 
-## Data Science & Analytics
+**Data Science & Analytics**
 
 - Data Analysis & Visualization, Machine Learning Algorithms, Statistical Modeling, EDA, Time Series Analysis, A/B Testing, NLP
 
-## Programming & Tools
+**Programming & Tools**
 
 - Data Cleaning & Preprocessing, Big Data Technologies, Data Visualization Tools, Model Deployment
 
-## Cloud Platforms & DevOps
+**Cloud Platforms & DevOps**
 
 - Cloud Platforms (AWS), MLOps
 
-## Soft Skills & Leadership
+**Soft Skills & Leadership**
 
 - Communication Skills, Project Management, Team Collaboration, Critical Thinking, Attention to Detail
 
