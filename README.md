@@ -67,6 +67,12 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
 
 ### 🚀 Key Projects
 
+**Electric Vehicle Charging Station Placement**
+
+As part of a collaborative team, this project aimed to identify optimal locations for electric vehicle (EV) charging stations in the Northern Province of Rwanda. The team utilized geospatial data processing and a heuristic-based model in combination with H3 (a spatial indexing system) to determine high-demand areas with limited access to charging infrastructure.
+By analyzing factors such as population density, proximity to key locations (e.g., roads and residential zones), and energy demand, the team was able to pinpoint strategic spots for new charging stations. This approach helped enhance the sustainability of the region's EV infrastructure.This project helped accelerate the adoption of electric vehicles in Rwanda’s Northern Province by providing a data-driven approach to sustainable infrastructure development.
+**Skills Applied**: Geospatial Data Processing, Heuristic-based Modeling, Data Engineering, Data Analysis
+
 
 ### 🌐 Let’s Connect!
 Feel free to check out my work, leave feedback, or collaborate on exciting data science projects! I'm always up for a challenge and eager to learn something new.
