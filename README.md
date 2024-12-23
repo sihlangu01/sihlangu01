@@ -70,6 +70,7 @@ I’m a data enthusiast with a BSc in Physical Sciences degree, where I dived de
 **TikTok Like Prediction 📊📱**
 
 Developed a Streamlit app that predicts the number of likes TikTok videos will receive based on factors such as video length, views, comments, and creator status. The project involved data exploration, feature engineering, and applying machine learning models to uncover key drivers of video engagement. Visualizations were created to present the findings and model performance.
+**View Project Here:**https://github.com/sihlangu01/TikTok-Like-Prediction
 
 
 ### 🌐 Let’s Connect!
